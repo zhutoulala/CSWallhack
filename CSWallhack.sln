@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wallhack", "wallhack\wallhack.vcxproj", "{DECBD896-C7BE-4C51-964E-4700D0F064D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSGOWall", "CSGOWall\CSGOWall.vcxproj", "{85042CD5-3932-4598-869F-99554C267555}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{DECBD896-C7BE-4C51-964E-4700D0F064D3}.Release|x64.Build.0 = Release|x64
 		{DECBD896-C7BE-4C51-964E-4700D0F064D3}.Release|x86.ActiveCfg = Release|Win32
 		{DECBD896-C7BE-4C51-964E-4700D0F064D3}.Release|x86.Build.0 = Release|Win32
+		{85042CD5-3932-4598-869F-99554C267555}.Debug|x64.ActiveCfg = Debug|x64
+		{85042CD5-3932-4598-869F-99554C267555}.Debug|x64.Build.0 = Debug|x64
+		{85042CD5-3932-4598-869F-99554C267555}.Debug|x86.ActiveCfg = Debug|Win32
+		{85042CD5-3932-4598-869F-99554C267555}.Debug|x86.Build.0 = Debug|Win32
+		{85042CD5-3932-4598-869F-99554C267555}.Release|x64.ActiveCfg = Release|x64
+		{85042CD5-3932-4598-869F-99554C267555}.Release|x64.Build.0 = Release|x64
+		{85042CD5-3932-4598-869F-99554C267555}.Release|x86.ActiveCfg = Release|Win32
+		{85042CD5-3932-4598-869F-99554C267555}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
