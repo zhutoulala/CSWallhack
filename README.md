@@ -8,7 +8,7 @@ CS:GO
 ------------------------------------------------
 1. Download or compile CSGOWall.dll
 2. Download or compile dllInjector, which I've forked to https://github.com/zhutoulala/dllinjector, and added Windows 10 support
-3. Lauch CS:GO game and find its process id
+3. Launch CS:GO game and find its process id
 4. Run below command
 ```
 dllInjector-x86.exe -p [pid] -l CSGOWall.dll -c
@@ -32,7 +32,7 @@ CS 1.6
 ------------------------------------------------
 1. Download or compile wallhack.dll
 2. Download or compile dllInjector, which I've forked to https://github.com/zhutoulala/dllinjector, and added Windows 10 support
-3. Lauch CounterStrike game and find its process id
+3. Launch CounterStrike game and find its process id
 4. Run below command
 ```
 dllInjector-x86.exe -p [pid] -l wallhack.dll -c
